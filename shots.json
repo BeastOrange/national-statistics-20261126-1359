@@ -1,0 +1,16 @@
+{
+  "screenshots": [
+    {
+      "file": "1-overview.png",
+      "caption": "StatAtlas overview dashboard displaying key global indicators, search bar, regional filters, and sortable 16-country table."
+    },
+    {
+      "file": "2-country.png",
+      "caption": "United States country profile featuring indicator stat cards, 10-year Canvas line trend chart, and comparative benchmark ranking."
+    },
+    {
+      "file": "3-compare.png",
+      "caption": "Cross-national comparison view overlaying multi-year GDP trajectories for selected nations alongside a side-by-side metric matrix."
+    }
+  ]
+}
